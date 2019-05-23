@@ -41,7 +41,6 @@ def main():
 红豆情峡幽兰茂，温泉如脂玉生香。
 引鸾招凤群贤至，八景点化应更芳。
 天下名山多绮丽，唯有磁山诗韵长。
-一入台门年未记，物我两忘不思乡。
 '''
     sentence_list = re.split(r'[,.，。]',poem)
     while '' in sentence_list:
